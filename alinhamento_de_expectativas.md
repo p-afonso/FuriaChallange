@@ -23,5 +23,5 @@ Git, Docker e Portainer
 
 Conhecimentos em Node.js e Python
 
-Sou fã da FURIA não só pelo que representa nos esportes, mas também pela maneira como vem inovando fora das competições. A ideia de ter a chance de trabalhar em uma organização tão immportante para mim me empolga justamente porque mistura tecnologia, criatividade e propósito. Quero muito fazer parte disso e somar com o que sei e principalmente, com o que ainda quero aprender.
+Sou fã da FURIA não só pelo que representa nos esportes, mas também pela maneira como vem inovando fora das competições. A ideia de ter a chance de trabalhar em uma organização tão importante para mim me empolga justamente porque mistura tecnologia, criatividade e propósito. Quero muito fazer parte disso e somar com o que sei e principalmente, com o que ainda quero aprender.
 
