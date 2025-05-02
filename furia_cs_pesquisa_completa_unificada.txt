@@ -1,0 +1,689 @@
+# FURIA CS - PESQUISA COMPLETA UNIFICADA
+
+## INFORMAÇÕES GERAIS
+
+A FURIA (anteriormente estilizada como FURIA Esports) é uma organização brasileira de esportes eletrônicos fundada em agosto de 2017 em Uberlândia, Minas Gerais. A organização foi idealizada pelo empresário Jaime Pádua, junto com André Akkari (jogador profissional de pôquer), Cris Guedes e Nicholas Nogueira.
+
+### Fundação e História
+
+- **Data de fundação**: 8 de agosto de 2017
+- **Local de fundação**: Uberlândia, Minas Gerais, Brasil
+- **Fundadores**: 
+  - Jaime Pádua (empresário)
+  - André Akkari (jogador profissional de pôquer)
+  - Cristian Guedes
+  - Nicholas Nogueira
+
+O primeiro investimento da FURIA foi no Counter-Strike: Global Offensive. A organização evoluiu rapidamente no cenário mundial dos esportes eletrônicos, alcançando marcas históricas entre equipes brasileiras.
+
+### Estrutura e Expansão
+
+A FURIA inicialmente possuía escritórios menores em São Paulo e nos Estados Unidos. Em novembro de 2020, anunciou uma estrutura maior na capital paulista para comportar seus funcionários e times profissionais. Em 2023, inaugurou uma nova sede em Mellieħa, Malta, para facilitar a participação em torneios europeus.
+
+### Reconhecimentos
+
+- Eleita como a melhor organização de esportes eletrônicos no Prêmio eSports Brasil em 2020 e 2021
+- Apontada como a quinta maior organização de esportes eletrônicos do mundo pelo portal norte-americano Nerd Street em 2022
+
+### Modalidades Atuais
+
+Além do Counter-Strike 2, a FURIA atua em diversas modalidades:
+- Rocket League
+- League of Legends
+- Valorant
+- Rainbow Six: Siege
+- Apex Legends
+- Futebol de 7
+
+## HISTÓRICO DE CAMPEONATOS
+
+### Conquistas Notáveis
+
+| Posição | Campeonato | Resultado | Adversário | Premiação |
+| --- | --- | --- | --- | --- |
+| 1º | ESL Pro League Season 12 North America | 3x0 | 100 Thieves | US$77,500 |
+| 1º | Elisa Masters Espoo 2023 | 3:1 | - | US$100,000 |
+| 1º | Elisa Invitational Summer 2021 | 2:1 | - | US$50,000 |
+| 1º | DreamHack Masters Spring 2020: North America | 3:0 | - | US$40,000 |
+| 1º | Arctic Invitational 2019 | 2:0 | - | US$66,519.41 |
+| 1º | EMF CS:GO World Invitational 2019 | 3:1 | - | US$63,951.50 |
+| 1º | ESEA Season 31: Global Challenge | 2:0 | - | US$25,000 |
+| 2º | Esports Championship Series Season 7 Finals | 0x2 | Team Vitality | US$100,000 |
+| 3º–4º | Intel Extreme Masters Rio Major 2022 | 1x2 | HEROIC | US$80,000 |
+| 3º–4º | ESL Pro League Season 15 | 0x2 | FaZe Clan | US$55,000 |
+| 3º–4º | Intel Extreme Masters Rio 2024 | 0x2 | MOUZ | US$20,000 |
+| 3º–4º | ESL Pro League Season 13 | 0x2 | Ninjas in Pyjamas | US$28,000 |
+| 3º–4º | DreamHack Masters Dallas 2019 | 0x2 | Team Liquid | US$22,000 |
+| 3º–4º | ESL One: Cologne 2020 Online - North America | 0x2 | Evil Genuises | US$12,500 |
+| 3º–4º | Intel Extreme Masters Season XVII - Dallas | 0x2 | ENCE | US$22,000 |
+
+### Participações em Majors
+
+A FURIA começou a participar de Majors em 2019, apenas dois anos após sua fundação:
+
+1. **IEM Katowice Major 2019** - Primeira participação em um Major, eliminados na primeira fase
+2. **PGL Major Stockholm 2021** - Chegaram até as quartas de final
+3. **PGL Major Antwerp 2022** - Eliminados nas quartas de final
+4. **IEM Rio Major 2022** - Melhor colocação em um Major até então, chegando às semifinais com grande apoio da torcida brasileira
+
+### Outros Torneios Importantes
+
+- **ESL Pro League** - A FURIA venceu a 12ª temporada da ESL Pro League da América do Norte em setembro de 2020, durante a pandemia de COVID-19
+- **Acordo do Louvre** - Em 2021, a FURIA fechou o "Acordo do Louvre" com a ESL, tornando-se parceira permanente da ESL Pro League. Este acordo foi renovado até 2025
+
+## LINE-UPS
+
+### Elenco Atual (Abril de 2025)
+
+| Pseudônimo | Nome | Nacionalidade | Posição | Data de Entrada |
+|------------|------|--------------|---------|-----------------|
+| yuurih | Yuri Boian | Brasil | Rifler | 2017-11-08 |
+| KSCERATO | Kaike Cerato | Brasil | Rifler | 2018-02-06 |
+| FalleN | Gabriel Toledo | Brasil | Rifler | 2023-07-03 |
+| molodoy | Danil Golubenko | Cazaquistão | AWPer | 2025-04-11 |
+| YEKINDAR | Mareks Gaļinskis | Letônia | Rifler (Stand-in) | 2025-04-22 |
+| sidde | Sidnei Macedo | Brasil | Treinador | 2024-07-09 |
+| Hepa | Juan Borges | Espanha | Treinador assistente | 2025-01-15 |
+
+### Jogadores Inativos
+
+| Pseudônimo | Nome | Nacionalidade | Data de Entrada | Data de Inatividade |
+|------------|------|--------------|-----------------|---------------------|
+| skullz | Felipe Medeiros | Brasil | 2024-07-09 | 2025-04-22 |
+| chelo | Marcelo Cespedes | Brasil | 2023-07-03 | 2025-04-11 |
+
+### Evolução das Line-ups
+
+#### Formação Original (Agosto de 2017)
+- spacca
+- prd
+- Sllayer
+- caike
+- guerri
+
+#### Primeira Line-up de Sucesso (2018-2019)
+- arT (Capitão)
+- KSCERATO
+- yuurih
+- VINI
+- ableJ
+- guerri (Treinador)
+
+#### Line-up de Destaque Internacional (2020-2021)
+- arT (Capitão)
+- KSCERATO
+- yuurih
+- VINI
+- HEN1/saffee
+- guerri (Treinador)
+
+#### Line-up do IEM Rio Major 2022
+- arT (Capitão)
+- KSCERATO
+- yuurih
+- drop
+- saffee
+- guerri (Treinador)
+
+#### Line-up com FalleN (2023-2024)
+- arT (Capitão)
+- KSCERATO
+- yuurih
+- FalleN
+- chelo
+- guerri (Treinador)
+
+#### Line-up Atual (Abril de 2025)
+- KSCERATO
+- yuurih
+- FalleN
+- molodoy
+- YEKINDAR (Stand-in)
+- sidde (Treinador)
+- Hepa (Treinador assistente)
+
+### Marcos Importantes nas Mudanças de Line-up
+
+- **Agosto de 2017**: Fundação da equipe
+- **Fevereiro de 2018**: Reformulação completa do time com a entrada de arT, KSCERATO, yuurih, VINI e ableJ
+- **Junho de 2019**: Saída de ableJ após bons resultados internacionais
+- **Setembro de 2020**: Contratação de HEN1, formando um time totalmente brasileiro de alto nível
+- **Janeiro de 2022**: Chegada de saffee para substituir HEN1
+- **Julho de 2023**: Contratação de FalleN e chelo, vindos da Imperial
+- **Abril de 2024**: arT é movido para o banco de reservas após mais de 6 anos como capitão da equipe
+- **Julho de 2024**: Nicholas "guerri" Nogueira deixa o cargo de treinador para assumir a posição de Head of Esports
+- **Abril de 2025**: Reformulação com a entrada de molodoy e YEKINDAR (stand-in), sinalizando uma possível internacionalização da equipe
+
+## ESTATÍSTICAS
+
+### Desempenho Geral
+
+Segundo dados do HLTV.org (abril de 2025), a FURIA apresenta as seguintes estatísticas gerais:
+
+- **Mapas jogados**: 1355
+- **Vitórias/Empates/Derrotas**: 806/2/547
+- **Taxa de vitória**: 59,5%
+- **Total de abates**: 116.894
+- **Total de mortes**: 109.262
+- **K/D Ratio**: 1,07
+- **Rounds jogados**: 34.181
+
+### Jogadores com Melhor Desempenho
+
+#### Jogadores Atuais
+- **yuurih**: 1336 mapas jogados - Um dos jogadores mais consistentes da equipe desde 2017
+- **KSCERATO**: 1310 mapas jogados - Outro pilar fundamental da equipe desde 2018
+- **FalleN**: 309 mapas jogados desde que se juntou à FURIA em 2023
+- **molodoy**: Recém-contratado em abril de 2025
+- **YEKINDAR**: Stand-in recente (abril de 2025)
+
+#### Jogadores Históricos Notáveis
+- **arT**: 1133 mapas jogados - Ex-capitão e um dos principais responsáveis pelo estilo agressivo da FURIA
+- **ableJ**: 256 mapas jogados
+- **VINI**: Jogador importante na ascensão internacional da equipe
+- **HEN1**: AWPer que teve passagem marcante pela equipe em 2020-2021
+
+### Mapas
+
+Embora não tenhamos dados específicos sobre os mapas mais jogados pela FURIA, historicamente a equipe tem demonstrado preferência e bom desempenho em:
+
+- **Vertigo**: Considerado um dos mapas de assinatura da FURIA durante sua ascensão internacional
+- **Nuke**: Outro mapa onde a equipe tradicionalmente apresenta bom desempenho
+- **Inferno**: Mapa frequentemente jogado pela equipe brasileira
+
+### Confrontos Notáveis
+
+Alguns rivais históricos da FURIA incluem:
+
+- **MIBR/SK Gaming**: Clássico do CS brasileiro, com a FURIA geralmente levando vantagem nos confrontos mais recentes
+- **Team Liquid**: Rival norte-americano frequente, com confrontos equilibrados
+- **Team Vitality**: Confrontos importantes em finais de torneios, como na final da ECS Season 7
+- **HEROIC**: Confronto importante no IEM Rio Major 2022, onde a FURIA foi eliminada na semifinal
+- **FaZe Clan**: Confrontos frequentes em playoffs de torneios importantes
+
+### Conquistas Estatísticas Notáveis
+
+- Primeira equipe brasileira a alcançar o top 5 do ranking mundial da HLTV em 2020
+- Melhor colocação no ranking mundial: #4 (junho de 2020)
+- Única equipe brasileira a manter-se consistentemente no top 20 mundial desde 2019
+- Participação em 5 Majors consecutivos desde 2019
+- Melhor campanha em Major: semifinal no IEM Rio Major 2022
+
+### Evolução de Desempenho
+
+- **2017-2018**: Período de formação e desenvolvimento inicial
+- **2019-2020**: Ascensão internacional, com entrada no top 10 mundial
+- **2020-2021**: Auge de desempenho, alcançando o top 5 mundial
+- **2022-2023**: Período de transição com mudanças na line-up
+- **2023-2025**: Nova era com a chegada de FalleN e posterior internacionalização da equipe
+
+## ORGANIZAÇÃO E ESTRUTURA
+
+### Liderança Atual
+
+- **Co-CEOs**: Jaime Pádua e André Akkari
+- **Marketing & PR Manager**: Cristian Guedes
+- **Head of Esports**: Nicholas "guerri" Nogueira (desde julho de 2024)
+- **Manager**: Alexia Midori
+- **Sports Psychologist**: Marta Minopolis
+
+### Instalações
+
+- **Sede principal**: São Paulo, Brasil
+- **Sede europeia**: Mellieħa, Malta (desde 2023)
+- **Escritório nos EUA**: Localização específica não divulgada
+
+### Patrocinadores Notáveis
+
+- Adidas
+- Lenovo
+- Red Bull
+- PokerStars
+- Hellmann's
+- Cruzeiro do Sul
+
+## LEGADO E IMPACTO
+
+A FURIA revolucionou o cenário brasileiro de Counter-Strike ao trazer um estilo de jogo agressivo e inovador, diferente do que era tradicionalmente praticado pelas equipes brasileiras. Sob a liderança de arT, a equipe ficou conhecida por táticas ousadas e imprevisíveis.
+
+A organização também se destacou por sua abordagem profissional e estruturada, investindo em infraestrutura, equipe técnica e desenvolvimento de jogadores. Isso permitiu que a FURIA se mantivesse competitiva internacionalmente por um período prolongado, algo raro para equipes brasileiras.
+
+Em 2025, a FURIA deu sinais de uma possível internacionalização de seu elenco, com a contratação do jogador cazaque molodoy e a utilização do letão YEKINDAR como stand-in, indicando uma nova fase na história da organização.
+
+## PRÓXIMOS TORNEIOS (2025)
+
+- PGL Astana 2025
+- Intel Extreme Masters Dallas 2025
+- BLAST.tv Austin Major 2025
+
+## PERGUNTAS E RESPOSTAS FREQUENTES
+
+### Informações Básicas
+
+**P: Quando foi fundada a FURIA?**
+R: A FURIA foi fundada em 8 de agosto de 2017 em Uberlândia, Minas Gerais, Brasil.
+
+**P: Quem são os fundadores da FURIA?**
+R: A FURIA foi fundada por Jaime Pádua, André Akkari (jogador profissional de pôquer), Cristian Guedes e Nicholas Nogueira.
+
+**P: Quais modalidades de esports a FURIA compete atualmente?**
+R: Além do Counter-Strike 2, a FURIA compete em Rocket League, League of Legends, Valorant, Rainbow Six: Siege, Apex Legends e Futebol de 7.
+
+**P: Onde ficam as sedes da FURIA?**
+R: A FURIA possui sua sede principal em São Paulo (Brasil), uma sede europeia em Mellieħa (Malta) inaugurada em 2023, e um escritório nos Estados Unidos.
+
+**P: Quais são os principais patrocinadores da FURIA?**
+R: Entre os principais patrocinadores da FURIA estão Adidas, Lenovo, Red Bull, PokerStars, Hellmann's e Cruzeiro do Sul.
+
+### Conquistas e Torneios
+
+**P: Qual foi a maior conquista da FURIA no CS:GO/CS2?**
+R: Entre as maiores conquistas da FURIA estão o título da ESL Pro League Season 12 North America e o Elisa Masters Espoo 2023, além de ter alcançado as semifinais do IEM Rio Major 2022.
+
+**P: Quantos Majors a FURIA já disputou?**
+R: A FURIA participou de 5 Majors consecutivos desde sua primeira participação no IEM Katowice Major 2019.
+
+**P: Qual foi a melhor campanha da FURIA em um Major?**
+R: A melhor campanha da FURIA em um Major foi no IEM Rio Major 2022, quando chegou às semifinais jogando em casa, com grande apoio da torcida brasileira.
+
+**P: Qual foi a melhor posição da FURIA no ranking mundial?**
+R: A FURIA alcançou a 4ª posição no ranking mundial da HLTV em junho de 2020, sendo a primeira equipe brasileira a chegar ao top 5.
+
+**P: Quais são os principais títulos da FURIA?**
+R: Os principais títulos da FURIA incluem ESL Pro League Season 12 North America, Elisa Masters Espoo 2023, Elisa Invitational Summer 2021, DreamHack Masters Spring 2020: North America, Arctic Invitational 2019, EMF CS:GO World Invitational 2019 e ESEA Season 31: Global Challenge.
+
+### Jogadores e Line-ups
+
+**P: Quem são os jogadores atuais da FURIA CS?**
+R: A line-up atual (abril de 2025) é composta por yuurih, KSCERATO, FalleN, molodoy e YEKINDAR (stand-in), com sidde como treinador e Hepa como treinador assistente.
+
+**P: Quais jogadores estão há mais tempo na FURIA?**
+R: Os jogadores mais longevos da FURIA são yuurih (desde novembro de 2017) e KSCERATO (desde fevereiro de 2018).
+
+**P: Quem foi o capitão histórico da FURIA?**
+R: Andrei "arT" Piovezan foi o capitão histórico da FURIA por mais de 6 anos, desde fevereiro de 2018 até abril de 2024, quando foi movido para o banco de reservas.
+
+**P: Quando FalleN se juntou à FURIA?**
+R: Gabriel "FalleN" Toledo se juntou à FURIA em 3 de julho de 2023, vindo da Imperial.
+
+**P: Qual foi a primeira line-up de sucesso da FURIA?**
+R: A primeira line-up de sucesso da FURIA (2018-2019) era composta por arT (capitão), KSCERATO, yuurih, VINI e ableJ, com guerri como treinador.
+
+### Estatísticas e Desempenho
+
+**P: Qual é o histórico de vitórias e derrotas da FURIA?**
+R: Até abril de 2025, a FURIA acumulou 806 vitórias, 2 empates e 547 derrotas em 1355 mapas jogados, com uma taxa de vitória de 59,5%.
+
+**P: Qual é o K/D ratio geral da FURIA?**
+R: A FURIA possui um K/D ratio geral de 1,07, com 116.894 abates e 109.262 mortes.
+
+**P: Quais são os mapas favoritos da FURIA?**
+R: Historicamente, a FURIA tem demonstrado preferência e bom desempenho em mapas como Vertigo (considerado um mapa de assinatura durante sua ascensão internacional), Nuke e Inferno.
+
+**P: Quais são os principais rivais da FURIA?**
+R: Entre os principais rivais da FURIA estão MIBR/SK Gaming (clássico brasileiro), Team Liquid, Team Vitality, HEROIC e FaZe Clan.
+
+**P: Como foi a evolução de desempenho da FURIA ao longo dos anos?**
+R: A evolução da FURIA pode ser dividida em: período de formação (2017-2018), ascensão internacional (2019-2020), auge de desempenho (2020-2021), período de transição (2022-2023) e nova era com FalleN e internacionalização (2023-2025).
+
+### Curiosidades
+
+**P: Por que a FURIA é considerada revolucionária no cenário brasileiro?**
+R: A FURIA revolucionou o cenário brasileiro de CS ao trazer um estilo de jogo agressivo e inovador, diferente do que era tradicionalmente praticado pelas equipes brasileiras, além de investir em infraestrutura e desenvolvimento de jogadores.
+
+**P: O que é o "Acordo do Louvre" que a FURIA assinou com a ESL?**
+R: O "Acordo do Louvre" é um contrato que a FURIA fechou com a ESL em 2021, tornando-se parceira permanente da ESL Pro League. Este acordo foi renovado até 2025.
+
+**P: A FURIA já teve jogadores não-brasileiros antes?**
+R: Até 2025, a FURIA manteve formações predominantemente brasileiras, mas em abril de 2025 deu sinais de internacionalização ao contratar o jogador cazaque molodoy e utilizar o letão YEKINDAR como stand-in.
+
+**P: Qual foi o impacto do Major no Rio de Janeiro para a FURIA?**
+R: O IEM Rio Major 2022 foi um marco para a FURIA, que alcançou sua melhor colocação em um Major (semifinal) jogando em casa com enorme apoio da torcida brasileira.
+
+**P: Quem é Nicholas "guerri" Nogueira e qual sua importância para a FURIA?**
+R: Nicholas "guerri" Nogueira é um dos fundadores da FURIA e foi treinador da equipe de CS por muitos anos. Em julho de 2024, ele deixou o cargo de treinador para assumir a posição de Head of Esports da organização.
+
+## DADOS ESTRUTURADOS PARA TREINAMENTO DO CHATBOT
+
+### Entidades Principais
+
+#### Organização
+```json
+{
+  "nome": "FURIA",
+  "nome_completo": "FURIA Esports",
+  "data_fundacao": "2017-08-08",
+  "local_fundacao": "Uberlândia, Minas Gerais, Brasil",
+  "fundadores": ["Jaime Pádua", "André Akkari", "Cristian Guedes", "Nicholas Nogueira"],
+  "sedes": ["São Paulo, Brasil", "Mellieħa, Malta", "Estados Unidos"],
+  "modalidades": ["Counter-Strike 2", "Rocket League", "League of Legends", "Valorant", "Rainbow Six: Siege", "Apex Legends", "Futebol de 7"],
+  "patrocinadores": ["Adidas", "Lenovo", "Red Bull", "PokerStars", "Hellmann's", "Cruzeiro do Sul"],
+  "reconhecimentos": ["Melhor organização de esports no Prêmio eSports Brasil 2020", "Melhor organização de esports no Prêmio eSports Brasil 2021", "Quinta maior organização de esports do mundo pelo Nerd Street em 2022"]
+}
+```
+
+#### Jogadores Atuais
+```json
+[
+  {
+    "nickname": "yuurih",
+    "nome_completo": "Yuri Boian",
+    "nacionalidade": "Brasil",
+    "posicao": "Rifler",
+    "data_entrada": "2017-11-08",
+    "mapas_jogados": 1336
+  },
+  {
+    "nickname": "KSCERATO",
+    "nome_completo": "Kaike Cerato",
+    "nacionalidade": "Brasil",
+    "posicao": "Rifler",
+    "data_entrada": "2018-02-06",
+    "mapas_jogados": 1310
+  },
+  {
+    "nickname": "FalleN",
+    "nome_completo": "Gabriel Toledo",
+    "nacionalidade": "Brasil",
+    "posicao": "Rifler",
+    "data_entrada": "2023-07-03",
+    "mapas_jogados": 309
+  },
+  {
+    "nickname": "molodoy",
+    "nome_completo": "Danil Golubenko",
+    "nacionalidade": "Cazaquistão",
+    "posicao": "AWPer",
+    "data_entrada": "2025-04-11",
+    "mapas_jogados": 0
+  },
+  {
+    "nickname": "YEKINDAR",
+    "nome_completo": "Mareks Gaļinskis",
+    "nacionalidade": "Letônia",
+    "posicao": "Rifler (Stand-in)",
+    "data_entrada": "2025-04-22",
+    "mapas_jogados": 0
+  }
+]
+```
+
+#### Jogadores Históricos Notáveis
+```json
+[
+  {
+    "nickname": "arT",
+    "nome_completo": "Andrei Piovezan",
+    "nacionalidade": "Brasil",
+    "periodo": "2018-02-06 a 2024-05-09",
+    "funcao": "Capitão/Entry Fragger",
+    "mapas_jogados": 1133,
+    "destino": "Fluxo"
+  },
+  {
+    "nickname": "VINI",
+    "nome_completo": "Vinicius Figueiredo",
+    "nacionalidade": "Brasil",
+    "periodo": "2018-02-06 a 2022-04-11",
+    "funcao": "Support",
+    "destino": "Imperial"
+  },
+  {
+    "nickname": "ableJ",
+    "nome_completo": "Rinaldo Moda Junior",
+    "nacionalidade": "Brasil",
+    "periodo": "2018-02-06 a 2019-06-25",
+    "mapas_jogados": 256,
+    "destino": "Luminosity Gaming"
+  },
+  {
+    "nickname": "HEN1",
+    "nome_completo": "Henrique Teles",
+    "nacionalidade": "Brasil",
+    "periodo": "2020-09-10 a 2021-01-03",
+    "funcao": "AWPer",
+    "destino": "O PLANO"
+  },
+  {
+    "nickname": "saffee",
+    "nome_completo": "Rafael Costa",
+    "nacionalidade": "Brasil",
+    "periodo": "2022-01-14 a 2023-06-30",
+    "funcao": "AWPer",
+    "destino": "MIBR"
+  },
+  {
+    "nickname": "drop",
+    "nome_completo": "André Abreu",
+    "nacionalidade": "Brasil",
+    "periodo": "2021-06-07 a 2022-10-31",
+    "destino": "paiN Gaming"
+  },
+  {
+    "nickname": "chelo",
+    "nome_completo": "Marcelo Cespedes",
+    "nacionalidade": "Brasil",
+    "periodo": "2023-07-03 a 2025-04-11",
+    "status": "Inativo"
+  },
+  {
+    "nickname": "skullz",
+    "nome_completo": "Felipe Medeiros",
+    "nacionalidade": "Brasil",
+    "periodo": "2024-07-09 a 2025-04-22",
+    "status": "Inativo"
+  }
+]
+```
+
+#### Conquistas
+```json
+[
+  {
+    "torneio": "ESL Pro League Season 12 North America",
+    "data": "2020-09-27",
+    "colocacao": "1º",
+    "resultado": "3-0",
+    "adversario": "100 Thieves",
+    "premiacao": "US$77,500"
+  },
+  {
+    "torneio": "Elisa Masters Espoo 2023",
+    "data": "2023-12-03",
+    "colocacao": "1º",
+    "resultado": "3-1",
+    "premiacao": "US$100,000"
+  },
+  {
+    "torneio": "Elisa Invitational Summer 2021",
+    "data": "2021-07-04",
+    "colocacao": "1º",
+    "resultado": "2-1",
+    "premiacao": "US$50,000"
+  },
+  {
+    "torneio": "DreamHack Masters Spring 2020: North America",
+    "data": "2020-06-14",
+    "colocacao": "1º",
+    "resultado": "3-0",
+    "premiacao": "US$40,000"
+  },
+  {
+    "torneio": "Arctic Invitational 2019",
+    "data": "2019-09-14",
+    "colocacao": "1º",
+    "resultado": "2-0",
+    "premiacao": "US$66,519.41"
+  },
+  {
+    "torneio": "EMF CS:GO World Invitational 2019",
+    "data": "2019-07-26",
+    "colocacao": "1º",
+    "resultado": "3-1",
+    "premiacao": "US$63,951.50"
+  },
+  {
+    "torneio": "ESEA Season 31: Global Challenge",
+    "data": "2019-07-14",
+    "colocacao": "1º",
+    "resultado": "2-0",
+    "premiacao": "US$25,000"
+  },
+  {
+    "torneio": "Esports Championship Series Season 7 - Finals",
+    "data": "2019-06-09",
+    "colocacao": "2º",
+    "resultado": "0-2",
+    "adversario": "Team Vitality",
+    "premiacao": "US$100,000"
+  },
+  {
+    "torneio": "Intel Extreme Masters Rio Major 2022",
+    "data": "2022-11-12",
+    "colocacao": "3º-4º",
+    "resultado": "1-2",
+    "adversario": "HEROIC",
+    "premiacao": "US$80,000"
+  }
+]
+```
+
+#### Participações em Majors
+```json
+[
+  {
+    "torneio": "IEM Katowice Major 2019",
+    "data": "2019-02",
+    "colocacao": "Eliminados na primeira fase",
+    "observacao": "Primeira participação em um Major"
+  },
+  {
+    "torneio": "PGL Major Stockholm 2021",
+    "data": "2021-10",
+    "colocacao": "Quartas de final"
+  },
+  {
+    "torneio": "PGL Major Antwerp 2022",
+    "data": "2022-05",
+    "colocacao": "Quartas de final"
+  },
+  {
+    "torneio": "IEM Rio Major 2022",
+    "data": "2022-11",
+    "colocacao": "Semifinal",
+    "observacao": "Melhor colocação em um Major até então"
+  }
+]
+```
+
+#### Estatísticas
+```json
+{
+  "mapas_jogados": 1355,
+  "vitorias": 806,
+  "empates": 2,
+  "derrotas": 547,
+  "taxa_vitoria": "59.5%",
+  "total_abates": 116894,
+  "total_mortes": 109262,
+  "kd_ratio": 1.07,
+  "rounds_jogados": 34181,
+  "melhor_ranking": "4º (junho de 2020)",
+  "mapas_preferidos": ["Vertigo", "Nuke", "Inferno"],
+  "rivais_principais": ["MIBR/SK Gaming", "Team Liquid", "Team Vitality", "HEROIC", "FaZe Clan"]
+}
+```
+
+### Cronologia de Eventos Importantes
+```json
+[
+  {
+    "data": "2017-08-08",
+    "evento": "Fundação da FURIA em Uberlândia, Minas Gerais"
+  },
+  {
+    "data": "2018-02",
+    "evento": "Reformulação completa do time com a entrada de arT, KSCERATO, yuurih, VINI e ableJ"
+  },
+  {
+    "data": "2019-02",
+    "evento": "Primeira participação em um Major (IEM Katowice Major 2019)"
+  },
+  {
+    "data": "2019-06",
+    "evento": "Vice-campeonato na Esports Championship Series Season 7 Finals"
+  },
+  {
+    "data": "2020-06",
+    "evento": "FURIA alcança a 4ª posição no ranking mundial da HLTV"
+  },
+  {
+    "data": "2020-09",
+    "evento": "Título da ESL Pro League Season 12 North America"
+  },
+  {
+    "data": "2020-11",
+    "evento": "Anúncio de estrutura maior em São Paulo"
+  },
+  {
+    "data": "2021",
+    "evento": "FURIA fecha o 'Acordo do Louvre' com a ESL"
+  },
+  {
+    "data": "2022-11",
+    "evento": "Semifinal no IEM Rio Major 2022"
+  },
+  {
+    "data": "2023",
+    "evento": "Inauguração da sede em Mellieħa, Malta"
+  },
+  {
+    "data": "2023-07-03",
+    "evento": "Contratação de FalleN e chelo, vindos da Imperial"
+  },
+  {
+    "data": "2024-04",
+    "evento": "arT é movido para o banco de reservas após mais de 6 anos como capitão"
+  },
+  {
+    "data": "2024-07",
+    "evento": "Nicholas 'guerri' Nogueira deixa o cargo de treinador para assumir a posição de Head of Esports"
+  },
+  {
+    "data": "2025-04",
+    "evento": "Reformulação com a entrada de molodoy e YEKINDAR (stand-in), sinalizando uma possível internacionalização da equipe"
+  }
+]
+```
+
+## TÓPICOS PARA CONTEÚDO INTERATIVO
+
+1. **Quiz sobre a História da FURIA**
+   - Perguntas sobre fundação, fundadores, conquistas e marcos históricos
+
+2. **Evolução das Line-ups**
+   - Apresentação visual da evolução das formações ao longo dos anos
+
+3. **Momentos Memoráveis**
+   - Vídeos e descrições de jogadas e momentos icônicos da equipe
+
+4. **Estatísticas Comparativas**
+   - Comparação de desempenho entre diferentes formações da FURIA
+
+5. **Rivalidades Históricas**
+   - Histórico de confrontos contra principais rivais
+
+6. **Perfil dos Jogadores**
+   - Informações detalhadas e curiosidades sobre cada jogador
+
+7. **Mapas Favoritos**
+   - Análise de desempenho e estratégias em diferentes mapas
+
+8. **Estilo de Jogo**
+   - Explicação sobre o estilo de jogo característico da FURIA
+
+9. **Trajetória em Majors**
+   - Detalhamento da participação da equipe em cada Major
+
+10. **Futuro da FURIA**
+    - Discussão sobre a internacionalização e próximos passos da equipe
